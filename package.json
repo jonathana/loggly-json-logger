@@ -1,0 +1,23 @@
+{
+  "name": "loggly-json-logger",
+  "version": "0.0.1",
+  "description": "Loggly json logger module with support for production mode tagging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@async.io:loggly-json-logger.git"
+  },
+  "keywords": [
+    "loggly",
+    "logger",
+    "json"
+  ],
+  "author": "Jonathan M. Altman",
+  "license": "MIT",
+  "dependencies": {
+    "loggly": "~1.0.3"
+  }
+}
